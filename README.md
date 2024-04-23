@@ -55,7 +55,7 @@
 				<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
 			</td>
 			<td colspan="8" rowspan="2">
-				<img height="180em" src="https://github-readme-stats-henna-eight-12.vercel.app/api/?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
+				<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
 			</td>
    		</tr>
  		<!--<tr>
@@ -66,7 +66,7 @@
 	</div>
 
   ## 🛠 Working progress, refactoring old projects and working on new ones 🛠
-  <img align="left" alt="working_in_progress" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFmNnVzZWJkamxvOWhyM3ZmNWtoNnBtdGZoOHY2YmJ2enc1MDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEGBI6ckrTSYRVHouI/giphy.gif" />
+  <img align="center" alt="working_in_progress" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFmNnVzZWJkamxvOWhyM3ZmNWtoNnBtdGZoOHY2YmJ2enc1MDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEGBI6ckrTSYRVHouI/giphy.gif" />
 
 
 
