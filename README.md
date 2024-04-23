@@ -65,7 +65,7 @@
 		</tr>-->
 	</div>
 
-  ## 🛠 Working progress, refactoring old projects and working on new ones 🛠
+  ## 🛠 Work in progress, refactoring old projects and working on new ones 🛠
   <img align="center" alt="working_in_progress" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFmNnVzZWJkamxvOWhyM3ZmNWtoNnBtdGZoOHY2YmJ2enc1MDVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEGBI6ckrTSYRVHouI/giphy.gif" />
 
 
