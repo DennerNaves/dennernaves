@@ -49,7 +49,7 @@
 	</table>	
     	
     ### Contribuitions
-    <div align="center">
+    <div align="left">
 	<tr>
 		<td colspan="4" rowspan="2">
 			<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
