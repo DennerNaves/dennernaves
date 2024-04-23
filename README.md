@@ -49,7 +49,7 @@
 	</table>	
     	
     ### Contribuitions
-    <div align="center">
+    <div align="center" justify="space-between">
 	<tr>
 		<td colspan="4" rowspan="2">
 			<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
@@ -60,7 +60,7 @@
    	</tr>
  	<tr>
 		<td colspan="4" rowspan="2">
-			<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/top-langs?username=DennerNaves&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
+			<img height="130em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/top-langs?username=DennerNaves&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
 		</td>
 	</tr>
 </div>
