@@ -11,10 +11,10 @@
 
     ### Let's Connect
 	<p align="left">
-		<a href="denner.silva@alumni.usp.br" target="_blank">
+		<a href="denner.silva@alumni.usp.br" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 		</a>
-		<a href="https://www.linkedin.com/in/denner-augusto-naves-da-silva-6a8466200/" target="_blank">
+		<a href="https://www.linkedin.com/in/denner-augusto-naves-da-silva-6a8466200/" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 		</a>
 	</p>
