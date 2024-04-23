@@ -55,7 +55,7 @@
 			<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
 		</td>
 		<td colspan="8" rowspan="2">
-			<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
+			<img height="180em" src="https://github-readme-stats-henna-eight-12.vercel.app/api?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
 		</td>
    	</tr>
  	<tr>
