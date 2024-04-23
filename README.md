@@ -52,15 +52,17 @@
 	<table>
 		<tr>
 			<td colspan="4" rowspan="2">
-				<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
+				<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
 			</td>
 			<td colspan="8" rowspan="2">
-				<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
-			</td>
-			<td colspan="4" rowspan="2">
-				<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/top-langs?username=DennerNaves&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
+				<img height="200em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
 			</td>
    		</tr>
+		<tr>
+			<td colspan="4" rowspan="2">
+				<img height="200em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/top-langs?username=DennerNaves&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
+			</td>
+		</tr>
 	</table>
 
 
