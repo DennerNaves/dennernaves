@@ -2,7 +2,7 @@
 
 
   #### 😎 This profile is used for professional purposes and includes some personal projects developed for learning 😎
-  - 🎂 26 years old
+  - 🎂 27 years old
   - 🎓 B.Sc of Biomedical Informatics at University of São Paulo
   - 💻 I've been working as a front-end developer on web and mobile projects at a Brazilian company specializing in the development of innovative solutions for the past 3 years
   - 📌 I live in Ribeirão Preto, São Paulo, Brazil
@@ -51,18 +51,18 @@
     ### Contribuitions
 	<div align="center">
 		<tr>
-			<td colspan="4" rowspan="2">
+			<!--<td colspan="4" rowspan="2">
 				<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DennerNaves&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
-			</td>
+			</td>-->
 			<td colspan="8" rowspan="2">
 				<img height="180em" src="https://github-readme-stats-denner-naves-projects.vercel.app/api/?username=DennerNaves&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dracula" />
 			</td>
    		</tr> 
- 		<tr>
+ 		<!--<tr>
 			<td colspan="4" rowspan="2">
 				<img height="180em" src="https://github-readme-stats-henna-eight-12.vercel.app/api/top-langs?username=DennerNaves&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&line_height=30" alt="DennerNaves" />
-			</td>
-		</tr>
+			</td>###
+		</tr>-->
 	</div>
 
   ## 🛠 Work in progress, refactoring old projects and working on new ones 🛠
