@@ -4,9 +4,9 @@
   #### 😎 This profile is used for professional purposes and includes some personal projects developed for learning 😎
   - 🎂 28 years old
   - 🎓 B.Sc of Biomedical Informatics at University of São Paulo
-  - 💻 I've been working as a front-end developer on web and mobile projects at a Brazilian company specializing in the development of innovative solutions for the past 3 years
+  - 💻 Currently working at SEB, one of the largest educational groups in Brazil, developing AI4School, an educational ecosystem focused on AI
   - 📌 I live in Ribeirão Preto, São Paulo, Brazil
-  - 📚 Currently, I'm studying project management as I've taken on leadership roles within the team
+  - 📚 Currently improving my English and studying the world of AI
   - ♂️ Pronouns: he/him
 
     ### Let's Connect
@@ -14,7 +14,7 @@
 		<a href="mailto:denner.silva@alumni.usp.br" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 		</a>
-		<a href="https://www.linkedin.com/in/denner-augusto-naves-da-silva-6a8466200/" target="_blank" rel="noopener noreferrer">
+		<a href="https://www.linkedin.com/in/dennernaves/" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 		</a>
 	</p>
