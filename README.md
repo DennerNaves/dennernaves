@@ -4,10 +4,9 @@
   #### 😎 This profile is used for professional purposes and includes some personal projects developed for learning 😎
   - 🎂 28 years old
   - 🎓 B.Sc of Biomedical Informatics at University of São Paulo
-  - 💻 Currently working at SEB, one of the largest educational groups in Brazil, developing AI4School, an educational ecosystem focused on AI
   - 📌 I live in Ribeirão Preto, São Paulo, Brazil
+  - 💻 Currently working at SEB, one of the largest educational groups in Brazil, developing AI4School, an educational ecosystem focused on AI
   - 📚 Currently improving my English and studying the world of AI
-  - ♂️ Pronouns: he/him
 
     ### Let's Connect
 	<p align="left">
