@@ -2,7 +2,7 @@
 
 
   #### 😎 This profile is used for professional purposes and includes some personal projects developed for learning 😎
-  - 🎂 27 years old
+  - 🎂 28 years old
   - 🎓 B.Sc of Biomedical Informatics at University of São Paulo
   - 💻 I've been working as a front-end developer on web and mobile projects at a Brazilian company specializing in the development of innovative solutions for the past 3 years
   - 📌 I live in Ribeirão Preto, São Paulo, Brazil
