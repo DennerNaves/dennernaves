@@ -8,6 +8,7 @@
   - 💻 Currently working at SEB, one of the largest educational groups in Brazil, developing AI4School, an educational ecosystem focused on AI
   - 📚 Currently improving my English and studying the world of AI
 
+
     ### Let's Connect
 	<p align="left">
 		<a href="mailto:denner.silva@alumni.usp.br" target="_blank" rel="noopener noreferrer">
